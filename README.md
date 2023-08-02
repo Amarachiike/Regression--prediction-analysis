@@ -2,9 +2,7 @@
 This is a housing dataset 
 
 The objective of this project is;
-
 Understand the Dataset & cleanup.
-
 Build Regression models to predict the sales w.r.t a single & multiple feature.
 Also evaluate the models & compare thier respective scores like R2, RMSE,
 Methodology
